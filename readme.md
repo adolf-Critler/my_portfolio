@@ -1,7 +1,7 @@
 
 # My Portfolio
 
-Welcome to my Portfolio! This repository showcases my work, skills, and projects as a Software Developer. Here, you’ll find detailed descriptions, code, and documentation for the various projects I’ve completed.
+Welcome to my Portfolio Repository! This repository showcases my work, skills, and projects as a Software Developer.
 
 # Table of Content
 * About Me
